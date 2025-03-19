@@ -1,0 +1,1 @@
+const { name, email, rollNumber, department } = req.body;
